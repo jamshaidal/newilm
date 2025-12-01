@@ -1,0 +1,1 @@
+mongodb+srv://jamshaidofficialtv_db_user:vPFvBCVwt5XO7zYb@jamshaid.sjpehi4.mongodb.net/?appName=jamshaid
