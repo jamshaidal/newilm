@@ -31,4 +31,4 @@ This repository focuses on backend foundations for digital education workflows. 
 
 Muhammad Jamshaid Ali
 
-AI researcher and ML engineer focused on applied AI, federated learning, and real-world machine learning systems.
+AI researcher and ML engineer focused on deepfake detection, Transformer models, CNN architectures, and real-world machine learning systems.
